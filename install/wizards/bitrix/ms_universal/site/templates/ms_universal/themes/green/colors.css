@@ -1,0 +1,42 @@
+a {
+color: #127220;
+}
+
+.news-img a:hover span, .left-img a:hover span, .gal > li a:hover span{border:2px solid rgb(0, 161, 64);}
+
+header{
+border-top-color:rgb(0, 161, 64);
+background: url(images/shattered.png) repeat;
+border:none;
+}
+
+.left-menu-bg {
+background: url(images/shattered.png) repeat;
+}
+
+footer{
+background: url(images/shattered.png) repeat;
+}
+
+.icon1{background-image:url(images/i1-green.png);}
+.icon2{background-image:url(images/i2-green.png);}
+.icon3{background-image:url(images/i3-green.png);}
+
+.jcarousel-1-skin .jcarousel-list > li a:hover span,
+.news-img a:hover span,
+.left-img a:hover span,
+.gal > li a:hover span{border:2px solid #3E8538;}
+
+
+a:hover {
+color: #22AD0A;
+}
+
+#top-menu li.active a {
+color: rgb(0, 161, 64);
+border: 1px solid rgb(0, 161, 64);
+}
+
+.catalog-element .ce-right .price{
+color:rgb(0, 161, 64);
+}

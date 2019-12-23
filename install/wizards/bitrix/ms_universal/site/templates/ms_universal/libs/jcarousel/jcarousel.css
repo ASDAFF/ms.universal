@@ -1,0 +1,111 @@
+/* Home */
+
+.jcarousel-1-skin{
+padding:15px 10px;
+background:#F5F5EF;
+margin:0 58px 20px;
+}
+
+.jcarousel-1-skin .jcarousel-prev,
+.jcarousel-1-skin .jcarousel-next{
+cursor:pointer;
+position:absolute;
+top:0;
+bottom:0;
+width:25px;
+}
+.jcarousel-1-skin .jcarousel-prev{background:url(arrow-left.png) no-repeat 0 50%;left:-25px;}
+.jcarousel-1-skin .jcarousel-next{background:url(arrow-right.png) no-repeat 100% 50%;right:-25px;}
+
+.jcarousel-1-skin .jcarousel-clip{
+overflow:hidden;
+margin:0 auto;
+}
+
+.jcarousel-1-skin .jcarousel-list > li{
+width:111px;
+margin:0 5px;
+position:relative;
+text-align:center;
+padding:0;
+}
+
+.jcarousel-1-skin .jcarousel-list > li a{
+display:block;
+position:relative;
+}
+
+.jcarousel-1-skin .jcarousel-list > li img{
+display:block;
+width:111px;
+height:auto;
+}
+
+.jcarousel-1-skin .jcarousel-list > li span{
+position:absolute;
+left:0;
+top:0;
+right:0;
+bottom:0;
+}
+
+.jcarousel-1-skin .jcarousel-list > li a:hover span{border:2px solid #0F5EA5;}
+
+
+/* Inner */
+.jcarousel-2-skin{
+padding:15px 0;
+background:#F5F5EF;
+margin:0 25px 20px;
+}
+
+.jcarousel-2-skin .jcarousel-prev,
+.jcarousel-2-skin .jcarousel-next{
+cursor:pointer;
+position:absolute;
+top:0;
+bottom:0;
+width:25px;
+}
+.jcarousel-2-skin .jcarousel-prev{background:url(arr-prev.png) no-repeat 0 50%;left:-25px;}
+.jcarousel-2-skin .jcarousel-next{background:url(arr-next.png) no-repeat 100% 50%;right:-25px;}
+
+.jcarousel-2-skin .jcarousel-clip{
+overflow:hidden;
+width:604px;
+margin:0 auto;
+}
+
+.jcarousel-2-skin .jcarousel-list > li{
+width:111px;
+margin:0 5px;
+position:relative;
+text-align:center;
+padding:0;
+}
+
+.jcarousel-2-skin .jcarousel-list > li a{
+display:block;
+position:relative;
+}
+
+.jcarousel-2-skin .jcarousel-list > li img{
+display:block;
+width:111px;
+height:auto;
+}
+
+.jcarousel-2-skin .jcarousel-list > li span{
+position:absolute;
+left:0;
+top:0;
+right:0;
+bottom:0;
+}
+
+
+.jcarousel-2-skin .jcarousel-list > li a:hover span{
+border:2px solid #0F5EA5;
+}
+
+

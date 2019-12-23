@@ -1,0 +1,57 @@
+header{
+border-top-color:rgb(128, 128, 128);
+}
+
+header{
+background: url(images/grid.png) repeat;
+}
+
+footer{
+background: url(images/grid.png) repeat;
+}
+
+.inline3 > div p{
+color:#000;
+}
+
+.icon1{background-image:url(images/i1-blue.png);}
+.icon2{background-image:url(images/i2-blue.png);}
+.icon3{background-image:url(images/i3-blue.png);}
+
+.jcarousel-1-skin .jcarousel-list > li a:hover span,
+.news-img a:hover span,
+.left-img a:hover span,
+.gal > li a:hover span{border:2px solid #727171;}
+
+#top-menu li.active a {
+color:#000;
+border: 1px solid #000;
+}
+
+#top-menu li a{
+color:#000;
+}
+
+#top-menu li a:hover{
+color:#727171;
+}
+
+a {
+color:#000;
+}
+
+a:hover {
+color: rgb(180, 180, 180);
+}
+
+.btn > input:hover, .btn > a:hover, .btn > button:hover, .jivo-btn:hover{
+border-color: rgb(180, 180, 180)!important;
+}
+
+.mail a{
+color:#000;
+}
+
+a:hover{
+color:#727171;
+}

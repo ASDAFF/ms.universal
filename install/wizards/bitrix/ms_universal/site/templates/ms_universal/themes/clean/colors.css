@@ -1,0 +1,27 @@
+a {
+color: #0054a1;
+}
+
+header{
+border-top-color: rgb(241, 241, 241);
+background:none;
+}
+
+.icon1{background-image:url(images/i1-blue.png);}
+.icon2{background-image:url(images/i2-blue.png);}
+.icon3{background-image:url(images/i3-blue.png);}
+
+a:hover {
+color: #00b7e8;
+}
+
+#top-menu li.active a {
+color: #0054a1;
+border: 1px solid #0054a1;
+}
+
+footer{background:rgb(241, 241, 241);}
+
+.catalog-element .ce-right .price{
+color:#0054a1;
+}

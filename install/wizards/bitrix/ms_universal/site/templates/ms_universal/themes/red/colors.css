@@ -1,0 +1,41 @@
+a {
+color: #c94136;
+}
+
+header{
+border-top-color:#c94136;
+background: url(images/nistri.png) repeat;
+border:none;
+}
+
+.left-menu-bg {
+background: url(images/nistri.png) repeat;
+}
+
+#logo{background:url(images/logo.png) no-repeat;}
+
+footer{
+background: url(images/nistri.png) repeat;
+}
+
+.icon1{background-image:url(images/i1-red.png);}
+.icon2{background-image:url(images/i2-red.png);}
+.icon3{background-image:url(images/i3-red.png);}
+
+.jcarousel-1-skin .jcarousel-list > li a:hover span,
+.news-img a:hover span,
+.left-img a:hover span,
+.gal > li a:hover span{border:2px solid #C94136;}
+
+a:hover {
+color: rgb(95, 0, 0);
+}
+
+#top-menu li.active a {
+color: #c94136;
+border: 1px solid #c94136;
+}
+
+.catalog-element .ce-right .price{
+color:#c94136;
+}

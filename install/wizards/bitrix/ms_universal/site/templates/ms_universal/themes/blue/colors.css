@@ -1,0 +1,29 @@
+body{color:#283846;}
+body h1, h2, h3, h4, h5, h6{color:#283846;}
+
+
+.icon1{background-image:url(images/i1-blue.png);}
+.icon2{background-image:url(images/i2-blue.png);}
+.icon3{background-image:url(images/i3-blue.png);}
+
+
+a{color:#0054a1;}
+a:hover{color:#00b7e8;}
+
+header{
+border-top:29px solid #4C7697;
+background: rgb(255,255,255); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(255,255,255,1) 0%, rgba(229,229,229,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(100%,rgba(229,229,229,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(229,229,229,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(229,229,229,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(229,229,229,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(255,255,255,1) 0%,rgba(229,229,229,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 ); /* IE6-9 */
+}
+
+footer{background:#f5f5ef;}
+
+.catalog-element .ce-right .price{
+color:#00549F;
+}
